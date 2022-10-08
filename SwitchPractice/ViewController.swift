@@ -11,6 +11,7 @@ class ViewController: UIViewController {
 
   @IBOutlet weak var switch1: UISwitch!
   @IBOutlet weak var switchLabel: UILabel!
+  
   override func viewDidLoad() {
     super.viewDidLoad()
     // Do any additional setup after loading the view.
